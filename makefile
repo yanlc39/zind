@@ -1,4 +1,4 @@
-CMD=go
+CMD=/usr/local/go/bin/go
 BIN_PATH=bin
 SRC_PATH=src
 
